@@ -2,9 +2,14 @@
   "name": "hzx-pages",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "bin": "bin/hzx-pages.js",
   "repository": "https://github.com/WoW-League/hzx-pages.git",
   "author": "hzx <2221048200@qq.com>",
   "license": "MIT",
+  "files": [
+    "bin",
+    "lib"
+  ],
   "dependencies": {
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
