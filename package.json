@@ -1,6 +1,6 @@
 {
   "name": "hzx-pages",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "lib/index.js",
   "bin": "bin/hzx-pages.js",
   "repository": "https://github.com/WoW-League/hzx-pages.git",
